@@ -19,3 +19,11 @@ Fornecer uma interface amigável para visualização de dados de veículos usado
 - Streamlit
 - Pandas
 - Plotly Express
+
+## 🔗 Repositório
+
+[projeto-veiculos no GitHub](https://github.com/Charlys-teixeira/projeto-veiculos)
+
+## 🌐 Aplicativo Online
+
+Acesse o aplicativo aqui: [projeto-veiculos Render](https://projeto-veiculos-1.onrender.com/)
